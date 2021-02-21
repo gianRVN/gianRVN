@@ -1,3 +1,13 @@
+
+### I'm Gian Marvin! :wave:
+
+[![Linkedin](https://img.shields.io/badge/-Gian%20Mohammad%20Arvin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gianmarvin/)
+[<img src="https://img.shields.io/github/followers/gianRVN?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
+[![Instagram](https://img.shields.io/badge/-@gianRVN-E4405F?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gianmohar@gmail.com)
+
+For years, I've been wondering what kind of things that I want to do in my life. Hunting a hidden life purpose along the way until I realize I want to do arts and visual stuff to draw the world with colors. There are a lot of tools for that but I pick Javascript as my powerful tool to create logic for my components. While doing the frontend seems super fun, I tend to understand that the backend stuff is another form of creativity. Building technologies by speaking through art languages (well, so many lines of codes) even though we are not showing anything on the surface. Well, I just love to work with frontend or backend
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -17,15 +27,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gianRVN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gianRVN&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/gianmarvin"><img src="https://img.shields.io/badge/-Gian%20Mohammad%20Arvin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/gianrvn"><img src="https://img.shields.io/badge/-@gianRVN-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
