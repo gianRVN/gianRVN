@@ -26,6 +26,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/gianmarvin"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/gianrvn"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/gianmarvin"><img src="https://img.shields.io/badge/-Gian%20Mohammad%20Arvin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/gianrvn"><img src="https://img.shields.io/badge/-@gianRVN-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
