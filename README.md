@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-@gianRVN-E4405F?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gianmohar@gmail.com)
 
-For years, I've been wondering what kind of things that I want to do in my life. Hunting a hidden life purpose along the way until I realize I want to do arts and visual stuff to draw the world with colors. There are a lot of tools for that but I pick "codes" as my powerful tool to create arts. While doing the frontend seems super fun, I tend to understand that the backend stuff is another form of creativity. So I love to work on both sides. <a href="https://github.com/gianRVN" target="_blank"> Check my Personal Website</a>
+For years, I've been wondering what kind of things that I want to do in my life. Hunting a hidden life purpose along the way until I realize I want to do arts and visual stuff to draw the world with colors. There are a lot of tools for that but I pick "codes" as my powerful tool to create arts. While doing the frontend seems super fun, I tend to understand that the backend stuff is another form of creativity. So I love to work on both sides. <a href="gianrvn.github.io" target="_blank"> Check my Personal Website</a>
 <br>
 <br>
 
